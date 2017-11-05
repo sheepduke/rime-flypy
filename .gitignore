@@ -2,3 +2,6 @@
 *.bin
 *.userdb
 installation.yaml
+default.yaml
+symbols.yaml
+user.yaml
