@@ -1,3 +1,7 @@
+# Archived
+
+Merged to https://github.com/sheepduke/rime-config
+
 # rime-flypy
 为Rime输入法添加小鹤双拼音形码支持。
 
